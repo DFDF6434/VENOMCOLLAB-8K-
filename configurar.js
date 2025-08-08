@@ -1,7 +1,7 @@
 const fs = require('fs');
 const chalk = require('chalk');
 
-global.numerodono = "554388337208";
+global.numerodono = "224660002740";
 global.nomedono = "Venom Mods";
 global.prefixo = ".";
 global.packnome = "feito por:\ncriador:\ncanal:";
